@@ -1,0 +1,25 @@
+[{
+   	"type": "Feature",
+   	"geometry": {
+   		"type": "Point",
+   		"coordinates": [42.6495,-82.9045]
+   	}
+   },{
+   	"type": "Feature",
+   	"geometry": {
+   		"type": "Point",
+   		"coordinates": [42.1935,-83.0213]
+   	}
+   },{
+   	"type": "Feature",
+   	"geometry": {
+   		"type": "Point",
+   		"coordinates": [42.4482,-82.7505]
+   	}
+   },{
+   	"type": "Feature",
+   	"geometry": {
+   		"type": "Point",
+   		"coordinates": [42.1978,-83.0326]
+   	}
+   }]
